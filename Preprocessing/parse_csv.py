@@ -1,3 +1,4 @@
+'''
 import csv
 import json
 flights_dict = {}
@@ -16,5 +17,5 @@ with open('openflightsformatted.csv', 'w') as csv_file_:
             if i < len(value)-1: #trailing comma
                 csv_file_.write(',')
         csv_file_.write('\n')
-
+'''
         

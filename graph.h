@@ -35,7 +35,7 @@
 #include <vector>
 
 #include "edge.h"
-#include "random.h"
+//#include "random.h"
 
 using std::cerr;
 using std::cout;
@@ -228,6 +228,8 @@ public:
 
     void clear();
 
+    void testConstructor();
+
 
     const static Vertex InvalidVertex;
     const static Edge InvalidEdge;
@@ -236,10 +238,11 @@ public:
 
 private:
     mutable unordered_map<Vertex, unordered_map<Vertex, Edge>> adjacency_list;
+    std::unordered_map<std::string, std::pair<double, double>> flights_data;
 
     bool weighted;
     bool directed;
-    Random random;
+    //Random random;
     int picNum;
     string picName;
 

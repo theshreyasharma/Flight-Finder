@@ -7,6 +7,28 @@ const Edge Graph::InvalidEdge = Edge(Graph::InvalidVertex, Graph::InvalidVertex,
 
 Graph::Graph(bool weighted) : weighted(weighted),directed(false),random(Random(0))
 {
+    weighted = false;
+    std::ifstream myFile("Preprocessing/openflightsformatted.csv");
+
+    std::string line;
+    std::string name;
+    while (getline(myFile, line,'\n')) {
+        std::vector<string> split;
+        std::stringstream s_stream(line); 
+        while(s_stream.good()) {
+            std::string substr;
+            getline(s_stream, substr, ',');
+            split.push_back(substr);
+        }
+        flights_data.insert({split.at(0), std::make_pair(std::stod(split.at(1)), std::stod(split.at(2)))});
+    }
+}
+
+void Graph::testConstructor() {
+    flights_data.insert({"hi", std::make_pair(1, 2)});
+     for (const auto& iter : flights_data) {
+        std::cout << iter.first << ": " << iter.second.first << ", "<< iter.second.second << "\n";
+    }
 }
 
 Graph::Graph(bool weighted, bool directed) : weighted(weighted),directed(directed),random(Random(0))
