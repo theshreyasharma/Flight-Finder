@@ -1,8 +1,3 @@
-/**
- * @file edge.h
- * Definition and (minimal) implementation of an edge class.
- */
-
 #pragma once
 
 #include <string>
