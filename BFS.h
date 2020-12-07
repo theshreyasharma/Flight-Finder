@@ -15,14 +15,13 @@ using std::pair;
 
 class BFS {
     public:
-        BFS(string s, string e, int maxLegDistance, Graph airports);
+        BFS(string s, string e, Graph airports);
         vector<string> getBestPath();
         
     private:
     queue<string> airportQueue; 
     string start;
     string end;
-    int maxDistance;
     Graph airports;
 
     //Filled map;
