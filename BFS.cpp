@@ -13,28 +13,19 @@ BFS::BFS(string s, string e, Graph airports)
 
 
  vector<string> BFS::getBestPath() {
+    vector<string> bfs_traversal;
     airportQueue.push(start);
-    paths[start].push_back(make_tuple("", 0));
-    string previous_airport = start;
-    int previous_index = 0;
     
      while(!airportQueue.empty()) {
-         
+
          string current_airport = airportQueue.front();
-         
-         paths[current_airport].push_back(make_tuple(previous_airport, std::get<2>(paths[previous_airport]["currentairportindex"]) + 1)));
+         bfs_traversal.push_back(current_airport);
          airportQueue.pop();
 
          vector<string> adjacents = airports.getVertices();
          for (int i = 0; i <int(adjacents.size()); i++) {
-             if (airports.getEdgeWeight < maxDistance) {
-                 airportQueue.push(adjacents[i]);
-             }
+            airportQueue.push(adjacents[i]);
          }
-
-        previous_airport = current_airport;
-        
-
      }
 
     //  //get path 
@@ -61,6 +52,6 @@ BFS::BFS(string s, string e, Graph airports)
     //     std::reverse(final_path.begin(), final_path.end());
 
 
-     return final_path
+     return bfs_traversal;
 
  }
