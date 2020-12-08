@@ -1,4 +1,8 @@
 '''
+Python parser for selecting important data from original openflights.csv (name, latitude, longitude). Writes to another CSV file
+'''
+
+'''
 import csv
 import json
 flights_dict = {}

@@ -1,6 +1,9 @@
 #include "graph.h"
 #include <iostream>
 #include <sstream>
+#include <fstream>
+#include "landmarkpath.h"
+#include "dijkstras.h"
 int main() {
     std::unordered_map<std::string, std::pair<double, double>> flights_data;
     std::ifstream myFile("preprocessing/openflightsformatted.csv");
@@ -30,8 +33,21 @@ int main() {
 
 
     //Landmark Path Algorithm
+    Graph landmarkpath = Graph(false, flights_data, 2);
+    std::ofstream myfile;
+    myfile.open ("/output/landmarkpath.txt");
+    myfile << "Landmark Path Algorithm from Chicago to Delhi going through New York.\n";
 
+    LandmarkPath landmark;
+    std::vector<std::string> out = landmark.findShortestPath(landmarkpath, 
+                                                            "Chicago O'Hare International Airport", 
+                                                            "La Guardia Airport",
+                                                             "Safdarjung Airport");
 
-   
+    std::ostream_iterator<std::string> output_iterator(myfile, "\n");
+    std::copy(out.begin(), out.end(), output_iterator);
+    
+    myfile.close();
+
     return 0;
 }
