@@ -11,5 +11,5 @@ class Dijkstras {
     private:
 
     public:
-        std::vector<std::string> findShortestPath(Graph data, Vertex A, Vertex landmark, Vertex C);
+        std::vector<std::string> findShortestPath(Graph data, Vertex A, Vertex B);
 };
