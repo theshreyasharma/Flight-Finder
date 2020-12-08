@@ -17,8 +17,21 @@ int main() {
         }
         flights_data.insert({split.at(0), std::make_pair(std::stod(split.at(1)), std::stod(split.at(2)))});
     }
-     for (const auto& iter : flights_data) {
-        std::cout << iter.first << ": " << iter.second.first << ", "<< iter.second.second << "\n";
-    }
+    //  for (const auto& iter : flights_data) {
+    //     std::cout << iter.first << ": " << iter.second.first << ", "<< iter.second.second << "\n";
+    // }
+
+
+    //BFS
+
+
+    //Dijkstra's algorithm
+    
+
+
+    //Landmark Path Algorithm
+
+
+   
     return 0;
 }
