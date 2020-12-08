@@ -3,7 +3,7 @@
 #include <sstream>
 int main() {
     std::unordered_map<std::string, std::pair<double, double>> flights_data;
-    std::ifstream myFile("Preprocessing/openflightsformatted.csv");
+    std::ifstream myFile("preprocessing/openflightsformatted.csv");
 
     std::string line;
     std::string name;

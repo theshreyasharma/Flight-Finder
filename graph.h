@@ -79,7 +79,7 @@ public:
      * @param numVertices - the number of vertices the graph will have
      * @param seed - a random seed to create the graph with
      */
-    Graph(bool weighted, int numVertices, unsigned long seed);
+    Graph(bool weighted, std::unordered_map<std::string, std::pair<double, double>> flights_data, unsigned long seed);
 
     /**
      * Gets all adjacent vertices to the parameter vertex.
@@ -138,7 +138,7 @@ public:
      * @return - if edge exists, set the label to the corresponding edge(if not directed, set the reverse one too), return edge with new label
      *         - if edge doesn't exist, return InvalidEdge
      */
-        Edge setEdgeLabel(Vertex source, Vertex destination, string label);
+    Edge setEdgeLabel(Vertex source, Vertex destination, string label);
 
     /**
      * Gets the edge label of the edge between vertices u and v.
@@ -227,6 +227,15 @@ public:
     bool isDirected() const;
 
     void clear();
+
+    /**
+    * Calculates the distance between two coordinates on a sphere
+    * @param lat1 - Latitude of first point
+    * @param long1 - Longitude of first point
+    * @param lat2 - Latitude of second point
+    * @param long2 - Longitude of second point
+    * */
+    double calculateHaversineDistance(double lat1, double long1, double lat2, double long2);
 
 
     const static Vertex InvalidVertex;

@@ -1,4 +1,5 @@
 #include "graph.h"
+#include <cmath> 
 
 const Vertex Graph::InvalidVertex = "_CS225INVALIDVERTEX";
 const int Graph::InvalidWeight = INT_MIN;
@@ -13,22 +14,28 @@ Graph::Graph(bool weighted, bool directed) : weighted(weighted),directed(directe
 {
 }
 
-Graph::Graph(bool weighted, int numVertices, unsigned long seed)
+Graph::Graph(bool weighted, std::unordered_map<std::string, std::pair<double, double>> flights_data, unsigned long seed)
     :weighted(weighted),
       directed(false),
      random(Random(seed)) 
 {
-    if (numVertices < 2)
+    if (flights_data.size() < 2)
     {
-     error("numVertices too low");
+     error("number of vertices too low");
      exit(1);
     }
 
     vector<Vertex> vertices;
-    for (int i = 0; i < numVertices; i++)
-    {
-        insertVertex(to_string(i));
-        vertices.push_back(to_string(i));
+    // for (int i = 0; i < flights_data.size(); i++)
+    // {
+    //     insertVertex(to_string(i));
+    //     vertices.push_back(to_string(i));
+    // }
+
+    for (const auto& iter : flights_data) {
+        insertVertex(iter.first);
+        vertices.push_back(iter.first);
+        //std::cout << iter.first << ": " << iter.second.first << ", "<< iter.second.second << "\n";
     }
 
     // make sure all vertices are connected
@@ -40,7 +47,12 @@ Graph::Graph(bool weighted, int numVertices, unsigned long seed)
         insertEdge(cur, next);
         if (weighted) 
         {
-            int weight = random.nextInt();
+            //int weight = random.nextInt();
+            //double weight = calculateHaversineDistance(double lat1, double long1, double lat2, double long2);
+            double weight = Graph::calculateHaversineDistance(flights_data.find(cur)->second.first, 
+                                                        flights_data.find(cur)->second.second,
+                                                        flights_data.find(next)->second.first,
+                                                        flights_data.find(next)->second.first);
             setEdgeWeight(cur, next, weight);
         }
         cur = next;
@@ -60,11 +72,15 @@ Graph::Graph(bool weighted, int numVertices, unsigned long seed)
         else 
         {
             // if insertEdge() succeeded...
-            if (weighted)
-                setEdgeWeight(vertices[idx], vertices[idx + 1],
-                              random.nextInt());
+            if (weighted) {
+                double weight = Graph::calculateHaversineDistance(flights_data.find(vertices[idx])->second.first, 
+                                                        flights_data.find(vertices[idx])->second.second,
+                                                        flights_data.find( vertices[idx + 1])->second.first,
+                                                        flights_data.find( vertices[idx + 1])->second.first);
+                setEdgeWeight(vertices[idx], vertices[idx + 1], weight);
+            }
             ++idx;
-            if (idx >= numVertices - 2) 
+            if (idx >= flights_data.size() - 2) 
             {
                 idx = 0;
                 random.shuffle(vertices);
@@ -278,7 +294,7 @@ Edge Graph::setEdgeWeight(Vertex source, Vertex destination, int weight)
     if (assertEdgeExists(source, destination, __func__) == false)
         return InvalidEdge;
     Edge e = adjacency_list[source][destination];
-    //std::cout << "setting weight: " << weight << std::endl;
+
     Edge new_edge(source, destination, weight, e.getLabel());
     adjacency_list[source][destination] = new_edge;
 
@@ -491,4 +507,19 @@ void Graph::savePNG(string title) const
 
     string rmCommand = "rm -f " + filename + " 2> /dev/null";
     system(rmCommand.c_str());
+}
+
+/**
+ * Calculates the distance between two coordinates on a sphere
+ * */
+double Graph::calculateHaversineDistance(double lat1, double long1, double lat2, double long2) {
+    double latitude_distance = (lat2 - lat1) * (M_PI / 180);
+    double longitude_distance = (long2 - long1) * (M_PI / 180);
+    lat1 = (lat1) * M_PI / 180.0; 
+    lat2 = (lat2) * M_PI / 180.0; 
+
+    double a = std::pow(sin(latitude_distance / 2), 2) +  std::pow(sin(longitude_distance / 2), 2) *  cos(lat1) * cos(lat2); 
+    double rad = 6371; 
+    double c = 2 * asin(sqrt(a)); 
+    return rad * c; 
 }
