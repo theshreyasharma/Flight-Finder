@@ -1,5 +1,5 @@
 EXENAME = final
-OBJS = final.o main.o PNG.o HSLAPixel.o lodepng.o
+OBJS =  main.o
 
 CXX = clang++
 CXXFLAGS = $(CS255) -std=c++1y -stdlib=libc++ -c -g -O0 -Wall -Wextra -pedantic
@@ -8,8 +8,8 @@ LDFLAGS = -std=c++1y -stdlib=libc++ -lc++abi -lm
 
 all : $(EXENAME)
 
-$(EXENAME) : $(OBJS)
-	$(LD) $(OBJS) $(LDFLAGS) -o $(EXENAME)
+# $(EXENAME) : $(OBJS)
+# 	$(LD) $(OBJS) $(LDFLAGS) -o $(EXENAME)
 
 test: test.o catchmain.o graph.o BFS.o
 	$(LD) catchmain.o test.o $(LDFLAGS) -o test
@@ -29,7 +29,7 @@ catchmain.o : cs225/catch/catch.hpp cs225/catch/catchmain.cpp
 main.o : main.cpp
 	$(CXX) $(CXXFLAGS) main.cpp
 
-final: main.o
+final: main.o graph.o
 	$(LD) main.o $(LDFLAGS) -o $(EXENAME)
 
 clean :

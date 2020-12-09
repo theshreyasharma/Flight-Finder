@@ -23,7 +23,7 @@ TEST_CASE("TESTGRAPH", "[valgrind][weight=1]")
     Graph g = Graph(false, flights_data, 2);
     std::vector<Vertex> vertices = g.getVertices();
 
-    for (int i = 0; i < vertices.size(); i++) {
+    for (unsigned i = 0; i < vertices.size(); i++) {
         std::cout << vertices[i] << std::endl;
     }
 }
