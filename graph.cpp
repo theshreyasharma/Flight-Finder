@@ -80,7 +80,7 @@ Graph::Graph(bool weighted, std::unordered_map<std::string, std::pair<double, do
                 setEdgeWeight(vertices[idx], vertices[idx + 1], weight);
             }
             ++idx;
-            if (idx >= flights_data.size() - 2) 
+            if (idx >= int(flights_data.size() - 2))
             {
                 idx = 0;
                 random.shuffle(vertices);

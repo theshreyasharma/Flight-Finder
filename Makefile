@@ -23,6 +23,9 @@ graph.o : graph.h
 BFS.o : BFS.h
 	$(CXX) $(CXXFLAGS) BFS.cpp
 
+landmarkpath.o : landmark.h
+	$(CXX) $(CXXFLAGS) landmarkpath.cpp
+
 catchmain.o : cs225/catch/catch.hpp cs225/catch/catchmain.cpp
 	$(CXX) $(CXXFLAGS) cs225/catch/catchmain.cpp
 
