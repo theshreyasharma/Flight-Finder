@@ -15,14 +15,14 @@ using std::pair;
 
 class BFS {
     public:
-        BFS(string s, string e, Graph airports);
+        BFS(string s, Graph airports);
         vector<string> getBestPath();
         
     private:
     queue<string> airportQueue; 
     string start;
     string end;
-    Graph airports = Graph(false);
+    Graph airports;
 
     //Filled map;
     // unordered_map<string, vector< tuple<string, int, int> > > paths;
