@@ -108,16 +108,22 @@ TEST_CASE("TESTBFS", "[valgrind][weight=1]")
 
     g.insertEdge("siebel", "rantoul");
     g.setEdgeWeight("siebel", "rantoul", 21);
+
     g.insertEdge("siebel", "bloomington");
     g.setEdgeWeight("siebel", "bloomington", 50);
+
     g.insertEdge("rantoul", "kankakee");
     g.setEdgeWeight("rantoul", "kankakee", 57);
+
     g.insertEdge("bloomington", "pontiac");
     g.setEdgeWeight("bloomington", "pontiac", 42);
+
     g.insertEdge("kankakee", "pontiac");
     g.setEdgeWeight("kankakee", "pontiac", 53);
+
     g.insertEdge("kankakee", "chicago");
     g.setEdgeWeight("kankakee", "chicago", 63);
+    
     g.insertEdge("pontiac", "joliet");
     g.setEdgeWeight("pontiac", "joliet", 57);
 
