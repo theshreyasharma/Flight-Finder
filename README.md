@@ -10,3 +10,6 @@ In order to build and run our executable, run the command `make final` followed 
 ## Contributors
 Siddhartha Adatrao, Saket Vissapragada, Sruthi Kilari, Shreya Sharma
 
+## Credits
+The Graph class, Edge class, and Random class were taken from lab_ml.
+The DjikstraPair and Compare struct were derived from [Geeks for Geeks](https://www.geeksforgeeks.org/stl-priority-queue-for-structure-or-class/).
