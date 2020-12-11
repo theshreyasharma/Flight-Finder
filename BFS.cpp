@@ -7,6 +7,7 @@ BFS::BFS(string s, Graph ports) : start(s), airports(ports) {
 vector<string> BFS::getBestPath() {
 
    vector<string> bfs_traversal;
+   vector<string> helper;
    airportQueue.push(start);
    bfs_traversal.push_back(start);
 
@@ -23,7 +24,10 @@ vector<string> BFS::getBestPath() {
       vector<string> adjacents = airports.getAdjacent(current_airport);
       for (int i = 0; i <int(adjacents.size()); i++) {
          if (std::find(bfs_traversal.begin(), bfs_traversal.end(), adjacents[i]) == bfs_traversal.end()) {
-            airportQueue.push(adjacents[i]);
+            if (std::find(helper.begin(), helper.end(), adjacents[i]) == helper.end()) {
+               airportQueue.push(adjacents[i]);
+               helper.push_back(adjacents[i]);
+            }
          }
       }
       count++;

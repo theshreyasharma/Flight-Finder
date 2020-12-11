@@ -14,8 +14,8 @@ Graph::Graph(bool weighted, bool directed) : weighted(weighted),directed(directe
 {
 }
 
-Graph::Graph(bool weighted, std::unordered_map<std::string, std::pair<double, double>> flights_data, unsigned long seed)
-    :weighted(weighted), directed(false), random(Random(seed)) 
+Graph::Graph(bool weighted, std::unordered_map<std::string, std::pair<double, double>> flights_data, unsigned long seed, bool directed)
+    :weighted(weighted), directed(directed), random(Random(seed)) 
 {
     if (flights_data.size() < 2) {
         error("Number of vertices is too low.");
