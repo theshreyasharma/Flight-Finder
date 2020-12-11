@@ -11,5 +11,5 @@ In order to build and run our executable, run the command `make final` followed 
 Siddhartha Adatrao, Saket Vissapragada, Sruthi Kilari, Shreya Sharma
 
 ## Credits
-The Graph class, Edge class, and Random class were taken from lab_ml.
-The DjikstraPair and Compare struct were derived from [Geeks for Geeks](https://www.geeksforgeeks.org/stl-priority-queue-for-structure-or-class/).
+We utilized the [Open Flights](https://openflights.org/data.html) dataset for this project. The Graph class, Edge class,Random class, as well as the cs225 folder were taken from lab_ml.
+The DijkstraPair and Compare struct in `dijkstras.cpp` were derived from [Geeks for Geeks](https://www.geeksforgeeks.org/stl-priority-queue-for-structure-or-class/).
