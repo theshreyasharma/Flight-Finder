@@ -1,5 +1,5 @@
 ## CS 225 Final Project 
-The goal of this project is to detect the shortest flight path from a start point to an end point with certain restrictions regarding the maximum distance that can be traveled in one path between two airports to create situations in which layover is needed. To achieve this goal, we will be incorporating BFS traversal, Dijkstra's Algorithm, and Landmark Path Algorithm.  
+The goal of this project is to detect the shortest flight path from a start point to an end point on a randomized graph of airports. Furthermore, we also were able to detect the shortest flight path between two points when given a point to be visited in between. To achieve this goal, we will be incorporating BFS traversal, Dijkstra's Algorithm, and Landmark Path Algorithm.  
 
 ## Installation
 Do a clone from the master branch to obtain the code base.
