@@ -1,5 +1,5 @@
 '''
-Python parser for selecting important data from original openflights.csv (name, latitude, longitude). Writes to another CSV file
+Python parser for selecting important data from original openflights.csv (name, latitude, longitude). Writes to another CSV file.
 '''
 
 '''

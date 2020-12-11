@@ -6,9 +6,9 @@
 #include "dijkstras.h"
 #include "BFS.h"
 
-
-
 int main() {
+
+    // Creating flight data map from preprocessed CSV
     std::unordered_map<std::string, std::pair<double, double>> flights_data;
     std::ifstream myFile("Preprocessing/openflightsformatted.csv");
 
@@ -25,13 +25,9 @@ int main() {
         }
         flights_data.insert({split.at(0), std::make_pair(std::stod(split.at(1)), std::stod(split.at(2)))});
     }
-    //  for (const auto& iter : flights_data) {
-    //     std::cout << iter.first << ": " << iter.second.first << ", "<< iter.second.second << "\n";
-    // }
 
 
     //BFS
-
     Graph BFS_graph = Graph(false, flights_data, 2, false);
 
     BFS b = BFS("Goroka Airport",  BFS_graph);
@@ -48,34 +44,21 @@ int main() {
     
     myfileBFS.close();
 
-    // // Dijkstra's algorithm
+    // Dijkstra's algorithm
     Graph Dijkstra_Graph = Graph(true, flights_data, 2, true);
     Dijkstras d = Dijkstras();
     vector<std::string> path = d.findShortestPath(Dijkstra_Graph, "Dallas Fort Worth International Airport", "Truth Or Consequences Municipal Airport");
 
-
     std::ofstream myFileDijkstra;
-    myFileDijkstra.open ("output/Dijkstra's");
+    myFileDijkstra.open ("output/dijkstras.txt");
     myFileDijkstra << "Dijkstra's\n";
-
 
     std::ostream_iterator<std::string> output_iterator_Dijkstra(myFileDijkstra, "\n");
     std::copy(bfsTraversal.begin(), bfsTraversal.end(), output_iterator_Dijkstra);
     
     myFileDijkstra.close();
 
-    // for (int i = 0; i < int(path.size()); i++) {
-    //     std::cout << path[i] << std::endl;
-    // }
-
-    //std::cout << g.getEdgeWeight("Gurney Airport", "Karlstad Airport") << std::endl;
-
-
-    
-  
-
-
-    //Landmark Path Algorithm
+    // Landmark Path Algorithm
     Graph landmarkpath = Graph(false, flights_data, 2, true);
     std::ofstream myfile;
     myfile.open ("output/landmarkpath.txt");
@@ -85,7 +68,7 @@ int main() {
     std::vector<std::string> out = landmark.findShortestPath(landmarkpath, 
                                                             "Chicago O'Hare International Airport", 
                                                             "La Guardia Airport",
-                                                             "Cuers-Pierrefeu Airport");
+                                                            "Cuers-Pierrefeu Airport");
 
     std::ostream_iterator<std::string> output_iterator_Landmark(myfile, "\n");
     std::copy(out.begin(), out.end(), output_iterator_Landmark);

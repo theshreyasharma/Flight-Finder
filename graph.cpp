@@ -192,7 +192,7 @@ string Graph::getEdgeLabel(Vertex source, Vertex destination) const
 int Graph::getEdgeWeight(Vertex source, Vertex destination) const
 {
     if (!weighted)
-        error("can't get edge weights on non-weighted graphs!");
+        // error("can't get edge weights on non-weighted graphs!");
 
     if(assertEdgeExists(source, destination, __func__) == false)
         return InvalidWeight;
