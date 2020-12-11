@@ -8,8 +8,9 @@
  * and point B
  */
 class Dijkstras {
-    private:
-
-    public:
-        std::vector<std::string> findShortestPath(Graph data, Vertex A, Vertex B);
+  private:
+    
+  public:
+    std::vector<std::string> findShortestPath(Graph data, Vertex A, Vertex B);
+    
 };

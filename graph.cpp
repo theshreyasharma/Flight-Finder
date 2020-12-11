@@ -15,27 +15,18 @@ Graph::Graph(bool weighted, bool directed) : weighted(weighted),directed(directe
 }
 
 Graph::Graph(bool weighted, std::unordered_map<std::string, std::pair<double, double>> flights_data, unsigned long seed)
-    :weighted(weighted),
-      directed(false),
-     random(Random(seed)) 
+    :weighted(weighted), directed(false), random(Random(seed)) 
 {
-    if (flights_data.size() < 2)
-    {
-     error("number of vertices too low");
-     exit(1);
+    if (flights_data.size() < 2) {
+        error("Number of vertices is too low.");
+        exit(1);
     }
 
     vector<Vertex> vertices;
-    // for (int i = 0; i < flights_data.size(); i++)
-    // {
-    //     insertVertex(to_string(i));
-    //     vertices.push_back(to_string(i));
-    // }
 
     for (const auto& iter : flights_data) {
         insertVertex(iter.first);
         vertices.push_back(iter.first);
-        //std::cout << iter.first << ": " << iter.second.first << ", "<< iter.second.second << "\n";
     }
 
     // make sure all vertices are connected
@@ -50,9 +41,9 @@ Graph::Graph(bool weighted, std::unordered_map<std::string, std::pair<double, do
             //int weight = random.nextInt();
             //double weight = calculateHaversineDistance(double lat1, double long1, double lat2, double long2);
             double weight = Graph::calculateHaversineDistance(flights_data.find(cur)->second.first, 
-                                                        flights_data.find(cur)->second.second,
-                                                        flights_data.find(next)->second.first,
-                                                        flights_data.find(next)->second.first);
+                                                              flights_data.find(cur)->second.second,
+                                                              flights_data.find(next)->second.first,
+                                                              flights_data.find(next)->second.first);
             setEdgeWeight(cur, next, weight);
         }
         cur = next;
@@ -74,9 +65,9 @@ Graph::Graph(bool weighted, std::unordered_map<std::string, std::pair<double, do
             // if insertEdge() succeeded...
             if (weighted) {
                 double weight = Graph::calculateHaversineDistance(flights_data.find(vertices[idx])->second.first, 
-                                                        flights_data.find(vertices[idx])->second.second,
-                                                        flights_data.find( vertices[idx + 1])->second.first,
-                                                        flights_data.find( vertices[idx + 1])->second.first);
+                                                                  flights_data.find(vertices[idx])->second.second,
+                                                                  flights_data.find( vertices[idx + 1])->second.first,
+                                                                  flights_data.find( vertices[idx + 1])->second.first);
                 setEdgeWeight(vertices[idx], vertices[idx + 1], weight);
             }
             ++idx;

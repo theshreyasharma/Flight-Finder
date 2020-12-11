@@ -33,32 +33,30 @@
 // }
 
 
-// TEST_CASE("TESTBFS", "[valgrind][weight=1]")
-// {
-//     Graph g = Graph(false);
+TEST_CASE("TESTBFS", "[valgrind][weight=1]") {
+    Graph g = Graph(false);
     
-//     g.insertVertex("a");
-//     g.insertVertex("b");
-//     g.insertVertex("c");
-//     g.insertVertex("d");
-//     g.insertVertex("e");
+    g.insertVertex("a");
+    g.insertVertex("b");
+    g.insertVertex("c");
+    g.insertVertex("d");
+    g.insertVertex("e");
 
-//     g.insertEdge("a", "b");
-//     g.insertEdge("b", "d");
-//     g.insertEdge("b", "c");
-//     g.insertEdge("d", "e");
+    g.insertEdge("a", "b");
+    g.insertEdge("b", "d");
+    g.insertEdge("b", "c");
+    g.insertEdge("d", "e");
 
-//     //std::cout << g.getAdjacent("a")[0] << std::endl;
+    BFS b = BFS("a", g);
 
-//     BFS b = BFS("a", g);
+    std::vector<Vertex> vertices = b.getBestPath();
+    std::stringstream ss;
+    for (unsigned i = 0; i < vertices.size(); i++) {
+        ss << vertices[i] << " ";
+    }
 
-//     std::vector<Vertex> vertices = b.getBestPath();
-    
-//     for (unsigned i = 0; i < vertices.size(); i++) {
-//         std::cout << vertices[i] << std::endl;
-//     }
-
-// }
+    REQUIRE(ss.str() == "a b d c e ");
+}
 
 // TEST_CASE("TESTBFS-Airport", "[valgrind][weight=1]")
 // {
@@ -93,9 +91,9 @@
 
 
 
-TEST_CASE("TESTBFS", "[valgrind][weight=1]")
+TEST_CASE("TEST djikstras", "[valgrind][weight=1]")
 {
-    Graph g = Graph(true);
+    Graph g = Graph(true, true);
     
     g.insertVertex("siebel");
     g.insertVertex("rantoul");
@@ -142,8 +140,8 @@ TEST_CASE("TESTBFS", "[valgrind][weight=1]")
 
     std::vector<Vertex> vertices = d.findShortestPath(g, "siebel", "cloudgate");
     
-    // for (unsigned i = 0; i < vertices.size(); i++) {
-    //     std::cout << vertices[i] << std::endl;
-    // }
+    for (unsigned i = 0; i < vertices.size(); i++) {
+        std::cout << vertices[i] << std::endl;
+    }
 
 }
