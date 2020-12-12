@@ -1,8 +1,8 @@
 ## CS 225 Final Project 
-The goal of this project is to detect the shortest flight path from a start point to an end point on a randomized graph of airports. Furthermore, we also were able to detect the shortest flight path between two points when given a point to be visited in between. To achieve this goal, we will be incorporating BFS traversal, Dijkstra's Algorithm, and Landmark Path Algorithm.  
+The goal of this project is to detect the shortest flight path from a start point to an end point. To accomplish this, we created a randomized graph of airport nodes that have the distances as edge weights. To compute these edge weights, we used the [Haversine formula](https://en.wikipedia.org/wiki/Haversine_formula). Additionally, we were able to detect the shortest flight path between two points when given a point that must be visited in between. Our project incorporated Breadth-first search (BFS), Dijkstra's Algorithm, and the Landmark path algorithm.
 
 ## Installation
-Do a clone from the master branch to obtain the code base.
+Clone this repository into your desired location `git clone https://github-dev.cs.illinois.edu/cs225-fa20/adatrao2-saketv2-skilari2-ssharm90.git`
 
 ## Build and Run
 In order to build and run our executable, run the command `make final` followed by `./final`. Then, check the files `bfs.txt`, `landmarkpath.txt`, and `dijkstra.txt` to view the output of the traversal and both algorithms. If you would like to change the origin and/or destination of any traversal or algorithm, you should replace our sample input airports with your own in `main.cpp` then run as indicated. Furthemore, running `make test` then `./test` will produce the output of our sample unit tests. 
