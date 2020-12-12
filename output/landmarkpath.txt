@@ -1,0 +1,1346 @@
+Landmark Path Algorithm from Chicago to Cuers-Pierrefeu, France going through New York.
+Chicago O'Hare International Airport
+Penza Airport
+Tin City Long Range Radar Station Airport
+Lafayette Regional Airport
+Niagara Falls International Airport
+Iliamna Airport
+Trollhättan-Vänersborg Airport
+Keesler Air Force Base
+Taiping Airport
+Cape Romanzof LRRS Airport
+Big Trout Lake Airport
+Redcliffe Airport
+Angoon Seaplane Base
+Cleveland Hopkins International Airport
+New Century Aircenter Airport
+London Airport
+Point Lay LRRS Airport
+Uru Harbour Airport
+Tiniteqilaaq Heliport
+Dane County Regional Truax Field
+TSTC Waco Airport
+La Guardia Airport
+La Guardia Airport
+Akron Fulton International Airport
+Boone County Airport
+Francisco Bangoy International Airport
+Indian Mountain LRRS Airport
+Yellowstone Regional Airport
+Wendover Airport
+Port Hardy Airport
+Patrick Air Force Base
+Capitan Oriel Lea Plaza Airport
+Tashkent International Airport
+Skå-Edeby Airport
+Surat Thani Airport
+Cut Bank International Airport
+Platinum Airport
+Sierra Vista Municipal Libby Army Air Field
+Chkalovskiy Air Base
+Sanya Phoenix International Airport
+Garner Field
+Allakaket Airport
+Grants-Milan Municipal Airport
+Dundo Airport
+Grand Forks International Airport
+Lycksele Airport
+Allstedt Airport
+Fort Smith Regional Airport
+Bowling Green Warren County Regional Airport
+Bunia Airport
+Jeon Ju Airport (G-703)
+Fair Isle Airport
+Yei Airport
+Granbury Regional Airport
+Cauayan Airport
+Taoyuan Air Base
+Whiting Field Naval Air Station - North
+Anoka County-Blaine (Janes Field) Airport
+Lac Brochet Airport
+Chehalis Centralia Airport
+Zhaotong Airport
+Embu Airport
+Bouarfa Airport
+Nantucket Memorial Airport
+Ankavandra Airport
+Pamplona Airport
+Vopnafjörður Airport
+Adi Sutjipto International Airport
+Luke Air Force Base
+Manley Hot Springs Airport
+Chipata Airport
+Malad City Airport
+Debra Marcos Airport
+Moorea Airport
+Novi Ligure Airport
+Memphis International Airport
+Long Island Mac Arthur Airport
+Luhansk International Airport
+Jacksonville Naval Air Station (Towers Field)
+DLF Airport
+Wudalianchi Dedu Airport
+Theodore Airport
+Dalhart Municipal Airport
+Page Field
+Anniston Regional Airport
+Pobedilovo Airport
+Northwest Alabama Regional Airport
+Tongareva Airport
+Tiputini Airport
+Caribou Municipal Airport
+Maxwell Air Force Base
+Fort Stockton Pecos County Airport
+Kodiak Airport
+Xining Caojiabu Airport
+Pori Airport
+Ceduna Airport
+LTS Pulau Redang Airport
+Acadiana Regional Airport
+Gulu Airport
+Béziers-Vias Airport
+Jacksonville International Airport
+Greenville Downtown Airport
+Islay Airport
+Lake Tahoe Airport
+Rivne International Airport
+Grand Forks Air Force Base
+Douglas-Charles Airport
+Minot Air Force Base
+Palm Beach County Park Airport
+Ämari Air Base
+Fort Wayne International Airport
+Little Rock Air Force Base
+Teterboro Airport
+Pirineus - la Seu d'Urgel Airport
+Redstone Army Air Field
+Wheeler Army Airfield
+Corte Airport
+McCarran International Airport
+Bukavu Kavumu Airport
+Lake Charles Regional Airport
+Oslo Lufthavn
+Garden City Regional Airport
+Sarakhs Airport
+Falls International Airport
+Salon-de-Provence (BA 701) Air Base
+Incheon International Airport
+John F Kennedy International Airport
+Arkansas International Airport
+Jask Airport
+Brantford Municipal Airport
+Palacios Municipal Airport
+Wausau Downtown Airport
+Arlington Municipal Airport
+Deadhorse Airport
+Weser-Wümme Airport
+Point Mugu Naval Air Station (Naval Base Ventura Co)
+Jabiru Airport
+Hacienda La Julia Airport
+San Nicolas Island Nolf Airport
+Felker Army Air Field
+Brownsville South Padre Island International Airport
+Hamilton Airport
+Fort Worth Meacham International Airport
+Northern Maine Regional Airport at Presque Isle
+Lydd Airport
+Molokai Airport
+Cherry Point MCAS /Cunningham Field/
+Mc Minnville Municipal Airport
+Hinton/Jasper-Hinton Airport
+Tallahassee Regional Airport
+Bessemer Airport
+Elizabeth City Regional Airport & Coast Guard Air Station
+Djibouti-Ambouli Airport
+Tomaszow Mazowiecki Military Air Base
+Roswell International Air Center Airport
+Greater Moncton International Airport
+Esler Regional Airport
+Liupanshui Yuezhao Airport
+Baicheng Chang'an Airport
+Drachten Airport
+Gerald R. Ford International Airport
+Isortoq Heliport
+Pueblo Memorial Airport
+Ørsta-Volda Airport Hovden
+Funafuti International Airport
+Columbia Regional Airport
+Ben Gurion International Airport
+Moises R. Espinosa Airport
+Jonesboro Municipal Airport
+Salt Lake City International Airport
+Taree Airport
+Yuma MCAS/Yuma International Airport
+Ramata Airport
+Magas Airport
+Waimea Kohala Airport
+Kenneth Kaunda International Airport Lusaka
+Daocheng Yading Airport
+Sam Neua Airport
+Napa County Airport
+Millinocket Municipal Airport
+Richmond International Airport
+Joint Base Andrews
+Millville Municipal Airport
+Fort Lauderdale Executive Airport
+Massena International Richards Field
+Augusta Regional At Bush Field
+Norfolk International Airport
+Hamilton International Airport
+Hill Air Force Base
+Joseph A. Hardy Connellsville Airport
+Narsaq Heliport
+Southern California Logistics Airport
+Sihanoukville International Airport
+Virac Airport
+Ardmore Municipal Airport
+Bob Sikes Airport
+Naval Air Station Key West/Boca Chica Field
+Holloman Air Force Base
+Thief River Falls Regional Airport
+Ellington Airport
+Ronald Reagan Washington National Airport
+Bethel Airport
+Crater Lake-Klamath Regional Airport
+Syamsudin Noor Airport
+Al Badie Airport
+Igor I Sikorsky Memorial Airport
+Roscommon County - Blodgett Memorial Airport
+Winkler County Airport
+Edward F Knapp State Airport
+Stockton Metropolitan Airport
+Lake Manyara Airport
+South Arkansas Regional At Goodwin Field
+Pongtiku Airport
+Whiteman Air Force Base
+Cape Cod Coast Guard Air Station
+Theodore Francis Green State Airport
+San Antonio International Airport
+Bethlehem Airport
+Bundaberg Airport
+Greater Kankakee Airport
+Imperial County Airport
+Revelstoke Airport
+Homer Airport
+Tomanggong Airport
+Upala Airport
+Jorge Chávez International Airport
+Eagle Airport
+Raleigh County Memorial Airport
+Elcho Island Airport
+General Mitchell International Airport
+Alice Springs Airport
+Tyler Pounds Regional Airport
+Plattsburgh International Airport
+Tampa International Airport
+Kenai Municipal Airport
+Necochea Airport
+Zhongwei Shapotou Airport
+Lubbock Preston Smith International Airport
+Krugersdorp Airport
+Santa Maria Airport
+Msembe Airport
+Uige Airport
+Yiwu Airport
+Millington-Memphis Airport
+Ataq Airport
+Bolivar Airport
+Portland International Airport
+Luena Airport
+Bob Hope Airport
+Seymour Johnson Air Force Base
+Sacheon Air Base/Airport
+Charleston Air Force Base-International Airport
+Hartford Brainard Airport
+Columbus Air Force Base
+Hood Army Air Field
+South Bend Regional Airport
+Islita Airport
+Nyíregyháza Airport
+Bradshaw Army Airfield
+Coleman A. Young Municipal Airport
+Niigata Airport
+Elmira Corning Regional Airport
+Elmendorf Air Force Base
+Ruby Airport
+McKellar-Sipes Regional Airport
+Tyndall Air Force Base
+Zvartnots International Airport
+Eagle County Regional Airport
+Topeka Regional Airport - Forbes Field
+Miami International Airport
+Rocky Mount Wilson Regional Airport
+Chico Municipal Airport
+Taos Regional Airport
+Baudette International Airport
+Memorial Field
+General Villamil Airport
+Siguiri Airport
+Sacramento Executive Airport
+Four Corners Regional Airport
+Oban Airport
+Fresno Yosemite International Airport
+Yasser Arafat International Airport
+Mobile Regional Airport
+Mehamn Airport
+General Ulpiano Paez Airport
+Sawyer International Airport
+McGhee Tyson Airport
+Komodo Airport
+Augusta State Airport
+Arturo Michelena International Airport
+Natuashish Airport
+Faaite Airport
+Kamishly Airport
+Fort Good Hope Airport
+Bemidji Regional Airport
+Vero Beach Regional Airport
+Lábrea Airport
+Kings Creek Airport
+Akhiok Airport
+Hartsfield Jackson Atlanta International Airport
+Tambohorano Airport
+Gardabya Airport
+Gladstone Airport
+Godman Army Air Field
+San Angelo Regional Mathis Field
+Gombe Lawanti International Airport
+Likoma Island Airport
+John Glenn Columbus International Airport
+Nashville International Airport
+Cannon Air Force Base
+Baracoa Airport
+Ta'izz International Airport
+Willow Grove Naval Air Station/Joint Reserve Base
+Genoa Cristoforo Colombo Airport
+Norman Y. Mineta San Jose International Airport
+Santa Fe Municipal Airport
+Cheremshanka Airport
+Altoona Blair County Airport
+Unalaska Airport
+Laredo International Airport
+Cleve Airport
+Marsa Alam International Airport
+Sultan Aji Muhamad Sulaiman Airport
+Sarajevo International Airport
+Ontario International Airport
+Namibe Airport
+Elkins-Randolph Co-Jennings Randolph Field
+Stavanger Airport Sola
+Southwest Florida International Airport
+Shaw Air Force Base
+Syracuse Hancock International Airport
+Cornwall Regional Airport
+March ARB Airport
+Ted Stevens Anchorage International Airport
+Sioux Gateway Col. Bud Day Field
+Coastal Carolina Regional Airport
+Calexico International Airport
+Svolvær Helle Airport
+Princeton Municipal Airport
+Logroño-Agoncillo Airport
+Enua Airport
+Homestead ARB Airport
+Tri-Cities Regional TN/VA Airport
+Lodja Airport
+Madeira Airport
+Cholet Le Pontreau Airport
+Bogashevo Airport
+Roanoke–Blacksburg Regional Airport
+Eskilstuna Airport
+Lightning Ridge Airport
+Shangrao Sanqingshan Airport
+Kastelorizo Airport
+Sultan Azlan Shah Airport
+Monterey Peninsula Airport
+Tagbilaran Airport
+Holland Landing Airpark
+Bajura Airport
+Majors Airport
+Middle Georgia Regional Airport
+Modesto City Co-Harry Sham Field
+Robins Air Force Base
+Ilulissat Airport
+El Golea Airport
+Chandler Municipal Airport
+Truth Or Consequences Municipal Airport
+Liuzhou Bailian Airport
+Dothan Regional Airport
+Yalata Mission Airport
+Norfolk Naval Station (Chambers Field)
+Cardiff International Airport
+Henry Post Army Air Field (Fort Sill)
+Marquette Airport
+RAAF Williams Point Cook Base
+Riverside Municipal Airport
+Umbu Mehang Kunda Airport
+Randolph Air Force Base
+Robert Gray  Army Air Field Airport
+Sharana Airstrip
+George Bush Intercontinental Houston Airport
+Abdul Rachman Saleh Airport
+Chicago Midway International Airport
+Lukla Airport
+Cheyenne Regional Jerry Olson Field
+Grissom Air Reserve Base
+Charlotte Douglas International Airport
+Whale Cove Airport
+Kaneohe Bay MCAS (Marion E. Carl Field) Airport
+Buluh Tumbang (H A S Hanandjoeddin) Airport
+Wolter Monginsidi Airport
+Palm Springs International Airport
+General Roberto Fierro Villalobos International Airport
+Dupage Airport
+Condron Army Air Field
+Edward G. Pitka Sr Airport
+New Orleans NAS JRB/Alvin Callender Field
+Del Rio International Airport
+Vologda Airport
+Graaff Reinet Airport
+Tucumcari Municipal Airport
+Opa-locka Executive Airport
+Coober Pedy Airport
+Xuzhou Guanyin Airport
+Haikou Meilan International Airport
+Naiu Airport
+Wawa Airport
+Pocatello Regional Airport
+Seronera Airport
+Coondewanna Airport
+Gulkana Airport
+Andi Jemma Airport
+Bananera Airport
+Eareckson Air Station
+Sulayel Airport
+Muir Army Air Field (Fort Indiantown Gap) Airport
+Ubon Ratchathani Airport
+Murray Island Airport
+Rogue Valley International Medford Airport
+Manhattan Regional Airport
+Helsinki Vantaa Airport
+City of Colorado Springs Municipal Airport
+Kwigillingok Airport
+Yan'an Ershilipu Airport
+Sherman Army Air Field
+Darnley Island Airport
+Naxos Airport
+Albany International Airport
+Gelnhausen Airport
+Varaždin Airport
+Kapalua Airport
+Vilnius International Airport
+Portland International Jetport Airport
+Charlo Airport
+Shank Air Base
+North Eleuthera Airport
+Dubbo City Regional Airport
+Lanai Airport
+Guararapes - Gilberto Freyre International Airport
+Craig Field
+Omsk Central Airport
+Usinsk Airport
+Great Falls International Airport
+Tuktoyaktuk Airport
+Willow Run Airport
+Port Hope Simpson Airport
+José Aponte de la Torre Airport
+Hobart Regional Airport
+Røst Airport
+Pierre Regional Airport
+Brigadeiro Lysias Rodrigues Airport
+L.F. Wade International International Airport
+Rimouski Airport
+Unalakleet Airport
+Lynchburg Regional Preston Glenn Field
+Pondok Cabe Air Base
+Palo Alto Airport of Santa Clara County
+Platov International Airport
+Billings Logan International Airport
+Boca Raton Airport
+Ramón Villeda Morales International Airport
+Penggung Airport
+Centennial Airport
+Fairbanks International Airport
+New Castle Airport
+Wilmington International Airport
+Cataratas Del Iguazú International Airport
+Lord Howe Island Airport
+Lawa Anapaike Airstrip
+Masroor Air Base
+Zella 74 Airport
+Salisbury Ocean City Wicomico Regional Airport
+Oceana Naval Air Station
+Cabo San Lucas International Airport
+Sitka Rocky Gutierrez Airport
+Albuquerque International Sunport
+Babo Airport
+Batna Airport
+Cedar City Regional Airport
+West Georgia Regional O V Gray Field
+Yaoundé Nsimalen International Airport
+Daytona Beach International Airport
+Madera Municipal Airport
+Taipei Songshan Airport
+Kamarang Airport
+Ngorangora Airport
+RNAS Yeovilton
+Akron Canton Regional Airport
+St. Peter-Ording Airport
+Henderson Oxford Airport
+Thorshofn Airport
+Suvarnabhumi Airport
+Casper-Natrona County International Airport
+Faa'a International Airport
+Orlando International Airport
+Stephens County Airport
+Amboseli Airport
+Playa De Oro International Airport
+Stepanavan Airport
+Springfield Branson National Airport
+Jose De San Martin Airport
+Madison County Airport
+Bagram Air Base
+Tutow Airport
+Aden International Airport
+Tapachula International Airport
+Batu Licin Airport
+Kulob Airport
+Nakhon Ratchasima Airport
+Wewak International Airport
+Kikori Airport
+Roberts Field
+Vila Real Airport
+Palma De Mallorca Airport
+Iswahyudi Airport
+Hang Nadim International Airport
+Klawock Seaplane Base
+Alert Bay Airport
+Okondja Airport
+Reconquista Airport
+Darwin International Airport
+Raja Haji Fisabilillah International Airport
+Shinyanga Airport
+Hongyuan Airport
+Tanjung Santan Airport
+Secunda Airport
+Mampikony Airport
+Frans Sales Lega Airport
+Beihan Airport
+Port Macquarie Airport
+Vannes-Meucon Airport
+Massawa International Airport
+Sliač Airport
+Kobe Airport
+Stony Rapids Airport
+Izhma Airport
+Gillette Campbell County Airport
+Kopitnari Airport
+Club Makokola Airport
+Bert Mooney Airport
+Kerema Airport
+Kaunas International Airport
+Saratov Central Airport
+Olenyok Airport
+Tbilisi International Airport
+Laramie Regional Airport
+Tête-à-la-Baleine Airport
+Santorini Airport
+Juwata Airport
+Rzeszów-Jasionka Airport
+Labo Airport
+Moron Airport
+Milford Sound Airport
+Muhammad Salahuddin Airport
+Domodedovo International Airport
+Toussus-le-Noble Airport
+Palanga International Airport
+Nulato Airport
+Ithaca Tompkins Regional Airport
+Exeter International Airport
+Lewiston Nez Perce County Airport
+Central Wisconsin Airport
+Prince Mangosuthu Buthelezi Airport
+Clarenville Airport
+Carbon County Regional/Buck Davis Field
+Lemoore Naval Air Station (Reeves Field) Airport
+Faro Airport
+Conakry International Airport
+Kokshetau Airport
+Maranggo Airport
+Yecheon Airbase
+Erbil International Airport
+Telluride Regional Airport
+General Edward Lawrence Logan International Airport
+Yinchuan Airport
+Louisville International Standiford Field
+Immokalee Regional Airport
+Fazenda São Nicolau Airport
+Whiteman Airport
+Köthen Airport
+Milas Bodrum International Airport
+Al Asad Air Base
+Walaha Airport
+Lien Khuong Airport
+Sana'a International Airport
+Querétaro Intercontinental Airport
+Aasiaat Airport
+Elazığ Airport
+Wheeler Sack Army Air Field
+Kotlik Airport
+Rochester International Airport
+Roshchino International Airport
+Pattani Airport
+Nelson Lagoon Airport
+Tucuruí Airport
+Melangguane Airport
+Hosea Kutako International Airport
+Norwich International Airport
+Guemar Airport
+Tofino / Long Beach Airport
+Polk Army Air Field
+Kaikoura Airport
+Truckee Tahoe Airport
+Aguni Airport
+Port O'Connor Private Heliport
+Central Illinois Regional Airport at Bloomington-Normal
+Valencia Airport
+Kaadedhdhoo Airport
+Mulu Airport
+General Wayne A. Downing Peoria International Airport
+Knox County Regional Airport
+Chubu Centrair International Airport
+Quad City International Airport
+Tenente Lund Pressoto Airport
+Simikot Airport
+Jackson Hole Airport
+Madang Airport
+Vinh Airport
+St George Municipal Airport
+Lhasa Gonggar Airport
+Kuini Lavenia Airport
+Salluit Airport
+Paraburdoo Airport
+Xieng Khouang Airport
+Surkhet Airport
+Francisco B. Reyes Airport
+Charles B. Wheeler Downtown Airport
+Gorno-Altaysk Airport
+Skardu Airport
+Dembidollo Airport
+Tumling Tar Airport
+Angers-Loire Airport
+Cahul International Airport
+Sinsheim Airfield
+Bildudalur Airport
+Tolmachevo Airport
+Armidale Airport
+Maestro Wilson Fonseca Airport
+Merrill Field
+Omidiyeh Airport
+Bismarck Municipal Airport
+Norden-Norddeich Airport
+Naha Airport
+Houghton County Memorial Airport
+Morondava Airport
+Kyzyl Airport
+Victoria Harbour Seaplane Base
+Battambang Airport
+Kirkland Lake Airport
+Flugplatz Punitz
+Rapid City Regional Airport
+Grímsey Airport
+Marl-Loemühle Airfield
+Trat Airport
+Blaise Diagne International Airport
+Sigiriya Air Force Base
+Port Bouet Airport
+Paros National Airport
+Idaho Falls Regional Airport
+Gayndah Airport
+Rügen Airport
+St-François Airport
+Nemiscau Airport
+Hawke's Bay Airport
+Levuka Airfield
+Stokmarknes Skagen Airport
+Meadow Lake Airport
+Vanavara Airport
+Salina Municipal Airport
+Baghdad International Airport
+Blythe Airport
+Draughon Miller Central Texas Regional Airport
+Brunswick Executive Airport
+Alpha Airport
+Dongying Shengli Airport
+Page Municipal Airport
+Parys Airport
+Cuyahoga County Airport
+Taoxian Airport
+Jomsom Airport
+Markovo Airport
+Grefrath-Niershorst Airport
+Ratanakiri Airport
+West Houston Airport
+Ulyanovsk Baratayevka Airport
+Bajhang Airport
+Ikaria Airport
+Utila Airport
+Cà Mau Airport
+Mason City Municipal Airport
+Sandakan Airport
+Rukum Chaurjahari Airport
+Bhojpur Airport
+Deadman's Cay Airport
+Anahim Lake Airport
+Roi Et Airport
+Annette Island Airport
+Tunoshna Airport
+St Cloud Regional Airport
+Kaieteur International Airport
+Grise Fiord Airport
+Al Taqaddum Air Base
+Mashhad International Airport
+Koulamoutou Mabimbi Airport
+Weeze Airport
+El Trompillo Airport
+Red Lake Airport
+Las Vegas Municipal Airport
+David Wayne Hooks Memorial Airport
+Dongola Airport
+Gia Lam Air Base
+Ghat Airport
+Luang Namtha Airport
+Uranium City Airport
+Sabzevar National Airport
+Nauru International Airport
+Bhuj Airport
+Hassan I Airport
+Moala Airport
+Kanti Airport
+Longjia Airport
+Pooncarie Airport
+Arvaikheer Airport
+Paso Robles Municipal Airport
+Tunis Carthage International Airport
+Qaqortoq Heliport
+Miandrivazo Airport
+George Town Airport
+Sedona Airport
+Nagaur Airport
+Berlevåg Airport
+Endelave Flyveplads
+Leczyca Military Air Base
+Lindi Airport
+Kalymnos Airport
+Paulatuk (Nora Aliqatchialuk Ruben) Airport
+Hateruma Airport
+Phaplu Airport
+Sugar Land Regional Airport
+James M Cox Dayton International Airport
+Chippewa County International Airport
+Taplejung Airport
+Laoag International Airport
+Sarsawa Air Force Station
+Ramingining Airport
+Legazpi City International Airport
+Okierabu Airport
+Juist Airport
+Tulip City Airport
+Fairfield County Airport
+Piedmont Triad International Airport
+Barnstable Municipal Boardman Polando Field
+Nain Airport
+Jumla Airport
+Manitouwadge Airport
+Muskrat Dam Airport
+Morgantown Municipal Walter L. Bill Hart Field
+Vilar de Luz Airfield
+Robinson Crusoe Airport
+Saulieu Liernais Airfield
+Alpena County Regional Airport
+Wageningen Airstrip
+Juancho E. Yrausquin Airport
+Kake Airport
+Klagenfurt Airport
+Jieyang Chaoshan International Airport
+Groton New London Airport
+St. Theresa Point Airport
+Burlington Municipal Airport
+Las Cruces International Airport
+Noatak Airport
+Concord Municipal Airport
+Aqaba King Hussein International Airport
+Tanna Airport
+Værøy Heliport
+Gurney Airport
+Karlstad Airport
+Mobile Airport
+Ust-Ilimsk Airport
+Ulyanovsk East Airport
+Joslin Field Magic Valley Regional Airport
+Sayun International Airport
+Ziro Airport
+Dillingham Airport
+Fagali'i Airport
+Liberal Mid-America Regional Airport
+Bakki Airport
+Mansfield Lahm Regional Airport
+Kandla Airport
+Yemelyanovo Airport
+Buffalo Range Airport
+Worland Municipal Airport
+Presidente Juscelino Kubistschek International Airport
+Porto Santo Airport
+Donegal Airport
+Šiauliai International Airport
+Malikus Saleh Airport
+Air Orlando Heliport
+Martha's Vineyard Airport
+Vadsø Airport
+Provincetown Municipal Airport
+Ivanovo South Airport
+Hommalinn Airport
+Northern Colorado Regional Airport
+Sary-Arka Airport
+Nowra Airport
+Paracatu Airport
+Baldwin County Regional Airport
+Qinhuangdao Beidaihe Airport
+Narvik Framnes Airport
+Khuzdar Airport
+Chamonate Airport
+Bukoba Airport
+Wilkes Barre Scranton International Airport
+Coveñas Airport
+Atyrau Airport
+MBS International Airport
+Qayyarah West Airport
+Relizane Airport
+DuBois Regional Airport
+Irkutsk Airport
+Mono Airport
+Westray Airport
+Longana Airport
+Kenema Airport
+Mardin Airport
+Neerlerit Inaat Airport
+Chanute Martin Johnson Airport
+Vanimo Airport
+Mouilla Ville Airport
+Yorkton Municipal Airport
+Kzyl-Orda Southwest Airport
+Flugplatz Kitzingen
+Nottingham Airport
+Trombetas Airport
+Mojave Airport
+Tari Airport
+Hercílio Luz International Airport
+Samsø Airport
+Novy Urengoy Airport
+Diagoras Airport
+Imam Khomeini International Airport
+Norilsk-Alykel Airport
+Yeosu Airport
+Joplin Regional Airport
+Smith Field
+Zaqatala International Airport
+Anapa Vityazevo Airport
+Rabah Bitat Airport
+Heide-Büsum Airport
+Le Castellet Airport
+Sri Sathya Sai Airport
+Fort Severn Airport
+Decatur Airport
+Valan Airport
+Ain Oussera Airport
+Tengchong Tuofeng Airport
+Rae Lakes Airport
+Broome International Airport
+Chevery Airport
+Round Lake (Weagamow Lake) Airport
+Hiroshima Airport
+Orléans-Saint-Denis-de-l'Hôtel Airport
+Rutland - Southern Vermont Regional Airport
+Dong Tac Airport
+Brig. Lysias Augusto Rodrigues Airport
+Lemhi County Airport
+Makkovik Airport
+Ballalae Airport
+Ngjiva Pereira Airport
+Qaanaaq Airport
+Athens Ben Epps Airport
+Confresa Airport
+Valence-Chabeuil Airport
+Lokichoggio Airport
+La Abraq Airport
+Gwaunaru'u Airport
+Crisp County Cordele Airport
+Uşak Airport
+Albert J Ellis Airport
+Maitland Airport
+Assab International Airport
+Cacique Aramare Airport
+Fort Albany Airport
+Quaqtaq Airport
+Lerwick / Tingwall Airport
+Upernavik Airport
+Shun Tak Heliport
+Texada Gillies Bay Airport
+Menindee Airport
+Nakina Airport
+Warnervale Airport
+Montreal / Pierre Elliott Trudeau International Airport
+Babanakira Airport
+Wapekeka Airport
+Pskov Airport
+Kuujjuarapik Airport
+Ordos Ejin Horo Airport
+Novosibirsk North Airport
+Inongo Airport
+Sisimiut Airport
+Lommis Airfield
+Tianshui Maijishan Airport
+Port Sudan New International Airport
+Fort Mcpherson Airport
+St. Lewis (Fox Harbour) Airport
+Santa Cruz/Graciosa Bay/Luova Airport
+Pathein Airport
+Rhinelander Oneida County Airport
+Kangersuatsiaq Heliport
+Wollaston Lake Airport
+General Rafael Buelna International Airport
+Île d'Yeu Airport
+St Clair County International Airport
+Sanday Airport
+Chimbu Airport
+Cibao International Airport
+Helgoland-Düne Airport
+Nouméa Magenta Airport
+Campbeltown Airport
+Gunnison Crested Butte Regional Airport
+Walla Walla Regional Airport
+Sármellék International Airport
+Kimmirut Airport
+Sørkjosen Airport
+Watertown Regional Airport
+Sanikiluaq Airport
+South Haven Area Regional Airport
+La Grand'combe Airport
+Redlands Municipal Airport
+Menorca Airport
+Orange County Airport
+Larisa Airport
+Lengpui Airport
+The Pas Airport
+Marau Airport
+Andizhan Airport
+Rigolet Airport
+Ernest A. Love Field
+São Filipe Airport
+Cat Lake Airport
+Zapala Airport
+La Rochelle-Île de Ré Airport
+Apalachicola Regional Airport
+Bo Airport
+Paamiut Heliport
+Somerset Airport
+Lourdes de Blanc Sablon Airport
+Janakpur Airport
+Alluitsup Paa Heliport
+Clayton J Lloyd International Airport
+Süleyman Demirel International Airport
+Lauro Carneiro de Loyola Airport
+Glasgow International Airport
+Kingfisher Lake Airport
+Quincy Regional Baldwin Field
+Korla Airport
+Qeqertarsuaq Heliport
+Nanortalik Heliport
+Calbayog Airport
+Lansdowne House Airport
+Nancy-Essey Airport
+Chapais Airport
+Qaarsut Airport
+Inukjuak Airport
+Musoma Airport
+Talakan Airport
+Chernihiv Shestovitsa Airport
+Kashechewan Airport
+Gove Airport
+Chesterfield Inlet Airport
+Williams Harbour Airport
+North Central West Virginia Airport
+Łódź Władysław Reymont Airport
+Ganja Airport
+Kariba International Airport
+Swan River Airport
+Tabora Airport
+Simon Mwansa Kapwepwe International Airport
+Fort Lauderdale Hollywood International Airport
+California Redwood Coast-Humboldt County Airport
+Arroyo Barril Airport
+Balıkesir Körfez Airport
+Kangiqsualujjuaq (Georges River) Airport
+Hastings Airport
+Storuman Airport
+York Landing Airport
+Gjadër Air Base
+Ambatondrazaka Airport
+Oldenburg-Hatten Airfield
+Sandane Airport (Anda)
+Ryan's Creek Aerodrome
+Pikangikum Airport
+Tilpa Airport
+Camarillo Airport
+Churchill Falls Airport
+Sogndal Airport
+Venice Municipal Airport
+Banja Luka International Airport
+Igloolik Airport
+Maumere(Wai Oti) Airport
+Arctic Village Airport
+Belo sur Tsiribihina Airport
+Ngot Nzoungou Airport
+Eastmain River Airport
+Kissimmee Gateway Airport
+Dyagilevo Air Base
+Matei Airport
+Kabri Dehar Airport
+Arua Airport
+El Bagre Airport
+Eday Airport
+Wokal Field Glasgow International Airport
+Delta Municipal Airport
+Wake Island Airfield
+Westover ARB/Metropolitan Airport
+Combolcha Airport
+Asheville Regional Airport
+Sola Airport
+Sindal Airport
+Quilpie Airport
+Reyes Murillo Airport
+Southeast Iowa Regional Airport
+Zagora Airport
+Thumamah Airport
+Pécs-Pogány Airport
+Mitchell Municipal Airport
+Mizan Teferi Airport
+Limpopo Valley Airport
+Faya Largeau Airport
+St Mary's Airport
+Perry Houston County Airport
+Assiut International Airport
+Santa Teresita Airport
+Tippi Airport
+Cherif Al Idrissi Airport
+Leon Airport
+Atbara Airport
+Beru Airport
+Heringsdorf Airport
+Licenciado Benito Juarez International Airport
+Torsby Airport
+Kaghau Airport
+Sokol Airport
+Babruisk Air Base
+Southwest Georgia Regional Airport
+Angoulême-Brie-Champniers Airport
+Bao'anying Airport
+Fukushima Airport
+Pump Station 6 Airport
+Nador International Airport
+Seinäjoki Airport
+Ioannis Kapodistrias International Airport
+Earl L. Small Jr. Field/Stockmar Airport
+Phillips Army Air Field
+Bad Neuenahr-Ahrweiler Airfield
+Upernavik Kujalleq Heliport
+Launceston Airport
+Kiewit Airfield Hasselt
+North Ronaldsay Airport
+Pakhokku Airport
+Åre Östersund Airport
+Ambanja Airport
+Cibeureum Airport
+Dabo Airport
+Ventspils International Airport
+Tennant Creek Airport
+Saúl Airport
+Aggeneys Airport
+Mitiga Airport
+Mo i Rana Airport Røssvoll
+Haller Airpark
+Île Art - Waala Airport
+Taichung Ching Chuang Kang Airport
+Butts AAF (Fort Carson) Air Field
+Hagerstown Regional Richard A Henson Field
+Weston Airport
+Nörvenich Air Base
+Lamidanda Airport
+Manihiki Island Airport
+Alula Airport
+Orapa Airport
+Thargomindah Airport
+Egal International Airport
+Igarka Airport
+Enrique Adolfo Jimenez Airport
+Kigoma Airport
+Aniak Airport
+Los Alamitos Army Air Field
+Iconi Airport
+Yeniseysk Airport
+Corvo Airport
+Isla Mujeres Airport
+Barinas Airport
+Maningrida Airport
+Oranjemund Airport
+Norman Manley International Airport
+Outer Skerries Airport
+Cunnamulla Airport
+Gode Airport
+Catumbela Airport
+Burlington Alamance Regional Airport
+El Calafate Airport
+Yam Island Airport
+Ercan International Airport
+Nagoya Airport
+Dumatumbun Airport
+Tsiroanomandidy Airport
+Lijiang Airport
+Mariupol International Airport
+Walgett Airport
+Kumasi Airport
+Fayzabad Airport
+Timaru Airport
+Compton Abbas Aerodrome
+Quepos Managua Airport
+Mount Hotham Airport
+Victoria River Downs Airport
+Aosta Airport
+Central Nebraska Regional Airport
+(Duplicate) Playa Samara Airport
+Dzhermuk Airport
+North West Santo Airport
+Eros Airport
+Taiyuan Wusu Airport
+Lac Du Bonnet Airport
+Jaqué Airport
+Saniat R'mel Airport
+Middle Caicos Airport
+Tshikapa Airport
+Catania-Fontanarossa Airport
+Old Crow Airport
+Pocono Mountains Municipal Airport
+Hohn Air Base
+Tezpur Airport
+Valesdir Airport
+Bosaso Airport
+Surigao Airport
+Győr-Pér International Airport
+Horn Island Airport
+Tzaneen Airport
+Tri-State/Milton J. Ferguson Field
+Butler Co Regional Airport - Hogan Field
+Jyvaskyla Airport
+Dirranbandi Airport
+Apataki Airport
+Stillwater Regional Airport
+Kirksville Regional Airport
+Aberdeen Regional Airport
+Adıyaman Airport
+Milos Airport
+Owensboro Daviess County Airport
+Saqqaq Heliport
+Aerotortuguero Airport
+Wonju/Hoengseong Air Base (K-38/K-46)
+Sauðárkrókur Airport
+Samaná El Catey International Airport
+Derby Airport
+Cape Girardeau Regional Airport
+London Biggin Hill Airport
+Palmerston North Airport
+Farm Whitwater East Landing Strip
+Kalskag Airport
+Buariki Airport
+Mountain Village Airport
+Jamestown Regional Airport
+Elko Regional Airport
+General Rivadeneira Airport
+La Môle Airport
+Salt Cay Airport
+Co Ong Airport
+Fayetteville Regional Grannis Field
+Brunswick Golden Isles Airport
+Jack Mc Namara Field Airport
+Peshawar International Airport
+Blue Grass Airport
+Narrabri Airport
+Vitória da Conquista Airport
+Garissa Airport
+Miyakejima Airport
+Dodge City Regional Airport
+Habersham County Airport
+Kenebetsu JASDF Airfield
+Aswan International Airport
+Cecil Airport
+Mudgee Airport
+Mogilev Airport
+Sofia Airport
+Colonel Hill Airport
+Qazvin Airport
+Flabob Airport
+Chippewa Valley Regional Airport
+French Valley Airport
+Cabo Velas Airport
+Tatenhill Airfield
+Bekily Airport
+Dzhankoy Airport
+Kalaupapa Airport
+Mostardas Airport
+Wickenburg Municipal Airport
+Taunton Municipal King Field
+Cheongju International Airport/Cheongju Air Base (K-59/G-513)
+Southwest Wyoming Regional Airport
+Stoelmanseiland Airport
+Lebanon Municipal Airport
+Oakland County International Airport
+Baotou Airport
+Samsun Çarşamba Airport
+Margaret Ekpo International Airport
+Ak-Chin Regional Airport
+Getafe Air Base
+San Cristóbal Airport
+Jim Kelly Field
+Lichinga Airport
+Brooks Field
+Coral Bay Airport
+Zhijiang Airport
+Eastern Oregon Regional At Pendleton Airport
+Srr Ahmadu Bello International Airport
+Chuuk International Airport
+Dera Ghazi Khan Airport
+Alakanuk Airport
+Jérémie Airport
+Moundou Airport
+Ust-Kuyga Airport
+Şanlıurfa Airport
+Lago Argentino Airport
+Tuzla International Airport
+Gray Army Air Field
+Raduzhny Airport
+Shanhaiguan Airport
+Beijing Nanyuan Airport
+White Waltham Airfield
+Labasa Airport
+Lamen Bay Airport
+Wels Airport
+Adak Airport
+Surat Airport
+Pointe Vele Airport
+Captain Rogelio Castillo National Airport
+Columbia Gorge Regional the Dalles Municipal Airport
+Thurrock Airfield
+Ruhnu Airfield
+Bob Baker Memorial Airport
+Dillon's Bay Airport
+Henry County Airport
+La Jagua Airport
+Dasht-e Naz Airport
+Hopsten Air Base
+Villeneuve-sur-Lot Airport
+Sara Airport
+Cuyo Airport
+Alberto Delgado Airport
+Maria Reiche Neuman Airport
+German Olano Airport
+Kaufana Airport
+Kunsan Air Base
+Teniente Coronel Luis a Mantilla Airport
+McGrath Airport
+Stafsberg Airport
+Wrangell Airport
+Bauru - Arealva Airport
+Antoine de Saint Exupéry Airport
+Griffith Airport
+New Bight Airport
+Resistencia International Airport
+Chevak Airport
+Chacalluta Airport
+Tunggul Wulung Airport
+Camilo Ponce Enriquez Airport
+Wangen-Lachen Airport
+Tajima Airport
+Tulita Airport
+Sehwan Sharif Airport
+Mitiaro Island Airport
+Nassau Paradise Island Airport
+Maota Airport
+Toledo Airport
+Aurukun Airport
+Tavie Airport
+Hiva Oa-Atuona Airport
+Balimo Airport
+Zagreb Airport
+Ahe Airport
+Enghien Moisselles Airfield
+Tongliao Airport
+Vanua Balavu Airport
+Petropavlosk South Airport
+Peterborough Airport
+Bulgan Airport
+Dr Augusto Roberto Fuster International Airport
+Joint Base Balad
+Yancheng Airport
+Newport News Williamsburg International Airport
+Bam Airport
+Hollister Municipal Airport
+Cooma Snowy Mountains Airport
+Marshfield Municipal Airport
+Gaua Island Airport
+Kigali International Airport
+Al Ain International Airport
+Pu'er Simao Airport
+Çanakkale Airport
+Amatopo Airstrip
+Jiwani Airport
+Capitán de Av. Emilio Beltrán Airport
+Dawadmi Domestic Airport
+Choiseul Bay Airport
+The Eastern Iowa Airport
+Comodoro Arturo Merino Benítez International Airport
+Apoteri Airport
+Stockholm-Arlanda Airport
+RNAS Culdrose
+Shillong Airport
+Kryvyi Rih International Airport
+Weifang Airport
+L M Clayton Airport
+Lar Airport
+Moree Airport
+Retford Gamston Airport
+Gafsa Ksar International Airport
+Klaipėda Airport
+Kota Airport
+Matsu Beigan Airport
+Varkaus Airport
+Wadi Al Dawasir Airport
+Ponte de Sor Airport
+Hanimaadhoo Airport
+Matsu Nangan Airport
+Chepelevka Airport
+Ricardo García Posada Airport
+Kostanay West Airport
+Tandag Airport
+Easterwood Field
+La Désirade Airport
+Shubuling Airport
+Golmud Airport
+Gualaquiza Airport
+Akiak Airport
+Virgin Gorda Airport
+Nelspruit Airport
+Nawapara Airport
+Sandy Lake Airport
+Kikai Airport
+Waris Airport
+Okadama Airport
+Cuers-Pierrefeu Airport

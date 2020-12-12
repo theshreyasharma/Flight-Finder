@@ -34,7 +34,7 @@ catchmain.o : cs225/catch/catch.hpp cs225/catch/catchmain.cpp
 main.o : BFS.h dijkstras.h graph.h edge.h landmarkpath.h main.cpp
 	$(CXX) $(CXXFLAGS) main.cpp
 
-final: BFS.o graph.o main.o 
+final: BFS.o graph.o main.o landmarkpath.o dijkstras.o
 	$(LD) landmarkpath.o dijkstras.o graph.o BFS.o main.o $(LDFLAGS) -o $(EXENAME)
 
 clean :

@@ -79,7 +79,7 @@ public:
      * @param numVertices - the number of vertices the graph will have
      * @param seed - a random seed to create the graph with
      */
-    Graph(bool weighted, std::unordered_map<std::string, std::pair<double, double>> flights_data, unsigned long seed);
+    Graph(bool weighted, std::unordered_map<std::string, std::pair<double, double>> flights_data, unsigned long seed, bool directed);
 
     /**
      * Gets all adjacent vertices to the parameter vertex.

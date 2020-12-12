@@ -14,8 +14,8 @@ Graph::Graph(bool weighted, bool directed) : weighted(weighted),directed(directe
 {
 }
 
-Graph::Graph(bool weighted, std::unordered_map<std::string, std::pair<double, double>> flights_data, unsigned long seed)
-    :weighted(weighted), directed(false), random(Random(seed)) 
+Graph::Graph(bool weighted, std::unordered_map<std::string, std::pair<double, double>> flights_data, unsigned long seed, bool directed)
+    :weighted(weighted), directed(directed), random(Random(seed)) 
 {
     if (flights_data.size() < 2) {
         error("Number of vertices is too low.");
@@ -192,7 +192,7 @@ string Graph::getEdgeLabel(Vertex source, Vertex destination) const
 int Graph::getEdgeWeight(Vertex source, Vertex destination) const
 {
     if (!weighted)
-        error("can't get edge weights on non-weighted graphs!");
+        // error("can't get edge weights on non-weighted graphs!");
 
     if(assertEdgeExists(source, destination, __func__) == false)
         return InvalidWeight;
