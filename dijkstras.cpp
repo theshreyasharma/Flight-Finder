@@ -78,6 +78,7 @@ std::vector<std::string> Dijkstras::findShortestPath(Graph data, Vertex start, V
         // Check if queue is empty
         if (q.size() == 0) {
             noPath = true;
+            std::cout << "NO PATH" << std::endl;
             break;
         }
     }
