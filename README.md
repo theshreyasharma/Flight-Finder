@@ -1,5 +1,5 @@
 ## CS 225 Final Project 
-The goal of this project is to detect the shortest flight path from a start point to an end point. To accomplish this, we created a randomized graph of airport nodes that have the distances as edge weights. To compute these edge weights, we used the [Haversine formula](https://en.wikipedia.org/wiki/Haversine_formula). Additionally, we were able to detect the shortest flight path between two points when given a point that must be visited in between. Our project incorporated Breadth-first search (BFS), Dijkstra's Algorithm, and the Landmark path algorithm.
+Developed for UIUC CS 225 Data Structures Final Project. The goal of this project is to detect the shortest flight path from a start point to an end point. To accomplish this, we created a randomized graph of airport nodes that have the distances as edge weights. To compute these edge weights, we used the [Haversine formula](https://en.wikipedia.org/wiki/Haversine_formula). Additionally, we were able to detect the shortest flight path between two points when given a point that must be visited in between. Our project incorporated Breadth-first search (BFS), Dijkstra's Algorithm, and the Landmark path algorithm.
 
 ## Installation
 Clone this repository into your desired location `git clone https://github-dev.cs.illinois.edu/cs225-fa20/adatrao2-saketv2-skilari2-ssharm90.git`
